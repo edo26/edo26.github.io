@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-
 @isPublish: true;
 
 #menu1-e {
@@ -398,38 +396,32 @@ nav.opened .hamburger span {
 }
 }
 
-#ext_menu-k {
-.mbr-brand__name {
-  font-size: 16px;
+#header2-z {
 }
-&.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-.mbr-navbar__section {
-  background: #2c2c2c;
-}
-.mbr-navbar__hamburger {
+
+#content5-10 {
+.mbr-header .mbr-header__text {
+  text-align: center;
   color: #ffffff;
 }
-.mbr-brand__name a {
-  font-size: 32px;
-  font-family: 'Roboto Condensed', sans-serif;
+.mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+.mbr-article {
+  color: #fff;
+}
+.mbr-article P {
+  text-align: center;
+  color: #ffffff;
 }
 }
 
-#image1-n {
+#form1-12 {
 }
-#content5-t .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+
+#map2-11 {
 }
-#content5-t .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-t .mbr-article {
-  color: #fff;
-}
-#content5-t .mbr-article P {
-  text-align: center;
+
+#contacts1-13 {
 }
