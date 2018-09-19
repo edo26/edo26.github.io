@@ -452,7 +452,7 @@
           },
           "title": "RUMAH SAKIT XYZ",
           "text": "Ini merupakan profile rumah sakit bla bla bla lorep ipsum blasios balbalbalbalbalblalablabalbalbalbalbaa.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"index.html#content5-10\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
